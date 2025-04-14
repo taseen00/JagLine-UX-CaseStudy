@@ -1,5 +1,5 @@
 
-# 🧪 JagLine UX Case Study
+# JagLine UX Case Study
 
 This project evaluates the usability of the JagLine Shuttle App at IUPUI using UX research methods such as Novice-Expert Ratio (NER), task success rate analysis, and performance matrix evaluations.
 
