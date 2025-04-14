@@ -1,27 +1,48 @@
+
 # 🧪 JagLine UX Case Study
 
-This repository contains a performance-based UX analysis of the IUPUI JagLine Shuttle App using NER (Novice-Expert Ratio) and task success rates.
+This project evaluates the usability of the JagLine Shuttle App at IUPUI using UX research methods such as Novice-Expert Ratio (NER), task success rate analysis, and performance matrix evaluations.
 
 ## 📈 Features
 
-- 📊 Visualizes usability struggles using NER
-- ✅ Evaluates task success rate and system feedback
-- 💡 Generates tailored design recommendations
-- 📂 Exportable charts and clean reporting
+- Calculates NER to identify areas where novice users struggle
+- Evaluates success/failure rate of each app task
+- Generates visualizations and tailored design recommendations
+- Colab-ready Python script for analysis
+- CSV export of redesign priorities
 
-## 📁 Files
+## 📁 Project Structure
 
-- `JagLine_UX_Complete_Cleaned_Colab.py`: Colab-ready Python script
-- `IDM Data.xlsx`: Original user study data
-- `visuals/`: NER and success rate charts (optional)
-- `README.md`: This file
+```
+JagLine-UX-CaseStudy/
+├── IDM Data.xlsx                     # UX testing data
+├── JagLine_UX_Complete_Cleaned_Colab.py  # Python analysis script
+├── visuals/                          # Save NER and success rate charts here
+├── report/                           # Optional PDF/slide output
+└── README.md
+```
 
-## 📌 Key Insights
+## 🔍 Key Insights
 
-- Multiple subtasks had NER > 8 (very difficult for new users)
-- Success rates < 40% highlight urgent redesign needs
-- Actionable UX recommendations provided by script
+- NER > 10 observed in several tasks — strong indication of poor learnability
+- Subtasks with < 40% success rate marked for major redesign
+- Actionable design suggestions are categorized into Major, Moderate, Minor fixes
 
 ## 🚀 How to Run
 
-Upload the `.py` file to [Google Colab](https://colab.research.google.com/) and run it along with the Excel data.
+1. Upload `JagLine_UX_Complete_Cleaned_Colab.py` and `IDM Data.xlsx` to [Google Colab](https://colab.research.google.com/)
+2. Run the notebook step-by-step
+3. View charts and download CSV of design recommendations
+
+## 📌 Authors
+
+This project was collaboratively created by:
+- Unnati Jagdish Mistry
+- Nandini Solse
+- Chandan Jonnavithula
+- Kavya Maragoni
+- Taseen
+
+## 🗂️ License
+
+This project is for academic and demonstration purposes.
