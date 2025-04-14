@@ -30,7 +30,7 @@ JagLine-UX-CaseStudy/
 
 ## 🚀 How to Run
 
-1. Upload `JagLine_UX_Complete_Cleaned_Colab.py` and `IDM Data.xlsx` to [Google Colab](https://colab.research.google.com/)
+1. Upload `jagline.ipynb` and `IDM Data.xlsx` to [Google Colab](https://colab.research.google.com/)
 2. Run the notebook step-by-step
 3. View charts and download CSV of design recommendations
 
