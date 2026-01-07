@@ -34,14 +34,6 @@ JagLine-UX-CaseStudy/
 2. Run the notebook step-by-step
 3. View charts and download CSV of design recommendations
 
-## 📌 Authors
-
-This project was collaboratively created by:
-- Unnati Jagdish Mistry
-- Nandini Solse
-- Chandan Jonnavithula
-- Kavya Maragoni
-- Taseen
 
 ## 🗂️ License
 
